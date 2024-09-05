@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently Working On Projects like RedRikshaw, KabaddiWala<br>I am a flutter Developer, i am learning java for backend and Android 
+I am MRxTHUNDER (my coding as well as gaming name)<br>I am a flutter Developer, i am learning java for backend and Android 
 
 
 ## 🌐 Socials:
